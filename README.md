@@ -13,7 +13,7 @@
 
 ### currently
 
-head of technology at **[codepup.ai](https://codepup.ai)** — building an AI website builder with multi-LLM orchestration over claude, openai, and gemini.
+Building **[codepup.ai](https://codepup.ai)** — building an AI website builder with multi-LLM orchestration over claude, openai, and gemini.
 
 </td>
 </tr>
