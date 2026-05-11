@@ -1,43 +1,64 @@
-# Hi, I'm Manminder Singh 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="manminder singh" width="680">
+</p>
 
-**Founding Engineer · Full Stack · AI/LLM Systems**
+<br>
 
-I build AI-native products from zero — multi-LLM orchestration, agentic pipelines, real-time systems, and production full-stack applications. Currently **Head of Technology at CodePup.AI**, architecting and shipping production AI products.
+<table>
+<tr>
+<td width="80" align="center" valign="top">
+  <img src="./assets/now.svg" alt="" width="56">
+</td>
+<td valign="top">
 
----
+### currently
 
-## 🚀 What I Build
+head of technology at **[codepup.ai](https://codepup.ai)** — building an AI website builder with multi-LLM orchestration over claude, openai, and gemini.
 
-- **Multi-LLM Orchestration** — OpenAI, Claude (AWS Bedrock), Gemini (Vertex AI) in production
-- **Agentic Systems** — Tool-calling pipelines that autonomously reason, plan, and execute
-- **Real-Time Infrastructure** — Socket.io + Redis, 10,000+ concurrent users, 99.9% uptime
-- **Full Stack** — TypeScript, Next.js, React, Node.js, PostgreSQL, Vercel, AWS
+</td>
+</tr>
+</table>
 
----
+<p align="center"><img src="./assets/squiggle.svg" alt="" width="200"></p>
 
-## 📌 Projects
+<table>
+<tr>
+<td width="80" align="center" valign="top">
+  <img src="./assets/projects.svg" alt="" width="56">
+</td>
+<td valign="top">
 
-**mini-claude-code** — Autonomous CLI coding agent (TypeScript · AWS Bedrock · ast-grep · ripgrep)
-> Self-directed agent that reads, searches, and rewrites codebases via iterative tool-calling
+### things i've been making
 
-**Worker** — AI Document Processing (LangChain · RAG · Vector Embeddings)
-> Multi-PDF retrieval pipeline — 90% accuracy, 70% latency reduction
+**[mini-claude-code](https://github.com/manmindersingh01/mini-bot)** &nbsp; cli coding agent. ~3k loc, no agent framework, ast edits via ts-morph.
 
-**Calze** — Enterprise Scheduling (Next.js · PostgreSQL · Nylas API)
-> Reduced booking conflicts by 85% via automated scheduling workflows
+**[jarvis](https://github.com/manmindersingh01/jarvis)** &nbsp; voice assistant for macos. local wake word + whisper + claude agent sdk + mcp memory.
 
----
+**[waypoint mcp server](https://github.com/manmindersingh01/Waypoint_Challenge)** &nbsp; mcp server that adapts lesson plans to a student's iep. 85 tests, real architectural thesis.
 
-## 🛠️ Stack
+**[worker](https://github.com/manmindersingh01/Worker)** &nbsp; chat-with-pdf rag. pinecone, 0.7 cosine gate, streaming via vercel ai sdk. &nbsp;[live →](https://worker-mocha.vercel.app)
 
-TypeScript · JavaScript · Python · React · Next.js · Node.js · Bun
-OpenAI · Claude · Gemini · LangChain · RAG · Agentic Tool Calling
-AWS · GCP · Docker · PostgreSQL · Redis · Prisma · Stripe · Razorpay
+**[calze](https://github.com/manmindersingh01/calze)** &nbsp; calendly clone with real google-calendar conflict detection via nylas. &nbsp;[live →](https://calze.vercel.app)
 
----
+</td>
+</tr>
+</table>
 
-## 📫 Contact
+<p align="center"><img src="./assets/squiggle.svg" alt="" width="200"></p>
 
-📧 bewithme2407@gmail.com · 📱 +91 84919 50021 · 🌍 Open to Remote
+<table>
+<tr>
+<td width="80" align="center" valign="top">
+  <img src="./assets/ping.svg" alt="" width="56">
+</td>
+<td valign="top">
 
-🎓 NIT Jalandhar — B.Tech Civil Engineering (2026)
+### ping me
+
+`bewithme2407@gmail.com` &nbsp;·&nbsp; nit jalandhar, b.tech 2026 &nbsp;·&nbsp; open to remote
+<br>
+looking for **AI engineer** / **LLM infrastructure** roles.
+
+</td>
+</tr>
+</table>
