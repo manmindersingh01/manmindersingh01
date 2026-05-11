@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="56" height="56" aria-hidden="true">
+  <style>
+    .ink { stroke: #1f2328; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .accent { stroke: #f59e0b; stroke-width: 3; fill: none; stroke-linecap: round; }
+    .fill { fill: #bae6fd; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #f0f6fc; }
+      .fill { fill: #0c4a6e; }
+    }
+  </style>
+  <!-- laptop body -->
+  <path class="fill" d="M 14 22 L 66 22 L 66 54 L 14 54 Z"/>
+  <path class="ink" d="M 14 22 L 66 22 L 66 54 L 14 54 Z"/>
+  <!-- laptop base -->
+  <path class="ink" d="M 8 56 L 72 56 Q 74 62, 66 64 L 14 64 Q 6 62, 8 56 Z"/>
+  <!-- code lines on screen -->
+  <path class="accent" d="M 22 32 L 38 32" stroke-width="2.5"/>
+  <path class="accent" d="M 22 40 L 50 40" stroke-width="2.5"/>
+  <path class="accent" d="M 22 48 L 42 48" stroke-width="2.5"/>
+</svg>

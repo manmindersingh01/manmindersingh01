@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="56" height="56" aria-hidden="true">
+  <style>
+    .ink { stroke: #1f2328; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .accent { stroke: #f59e0b; stroke-width: 3; fill: none; stroke-linecap: round; }
+    .fill { fill: #fde68a; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #f0f6fc; }
+      .fill { fill: #422006; }
+    }
+  </style>
+  <!-- coffee cup -->
+  <path class="fill" d="M 18 32 L 22 64 Q 24 70, 30 70 L 50 70 Q 56 70, 58 64 L 62 32 Z"/>
+  <path class="ink" d="M 18 32 L 22 64 Q 24 70, 30 70 L 50 70 Q 56 70, 58 64 L 62 32"/>
+  <path class="ink" d="M 14 32 L 66 32"/>
+  <!-- handle -->
+  <path class="ink" d="M 62 40 Q 74 42, 72 54 Q 70 60, 60 60"/>
+  <!-- steam -->
+  <path class="accent" d="M 30 22 Q 26 14, 32 8"/>
+  <path class="accent" d="M 42 22 Q 38 14, 44 8"/>
+  <path class="accent" d="M 54 22 Q 50 14, 56 8"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160" role="img" aria-label="manminder singh">
+  <style>
+    .name { font: 800 64px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; fill: #1f2328; }
+    .sub  { font: 400 20px ui-monospace, "SF Mono", Menlo, monospace; fill: #57606a; }
+    .ink  { stroke: #f59e0b; stroke-width: 5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .dot  { fill: #f59e0b; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f6fc; }
+      .sub  { fill: #8b949e; }
+    }
+  </style>
+
+  <!-- name -->
+  <text x="32" y="80" class="name">manminder singh.</text>
+
+  <!-- wobbly hand-drawn underline -->
+  <path class="ink" d="M 38 100
+    C 90 92, 150 108, 210 96
+    S 320 104, 380 94
+    S 490 102, 560 96
+    S 670 100, 692 97" />
+
+  <!-- doodle star/sparkle top-right -->
+  <g transform="translate(640 30)">
+    <path class="ink" d="M 0 -16 L 4 -4 L 16 0 L 4 4 L 0 16 L -4 4 L -16 0 L -4 -4 Z" stroke-width="3.5"/>
+    <circle cx="-32" cy="-4" r="3" class="dot"/>
+    <circle cx="30" cy="22" r="2.5" class="dot"/>
+  </g>
+
+  <!-- subtitle -->
+  <text x="32" y="140" class="sub">// full-stack + AI engineer. building agents and the infra around them.</text>
+</svg>

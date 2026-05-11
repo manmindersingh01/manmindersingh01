@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="56" height="56" aria-hidden="true">
+  <style>
+    .ink { stroke: #1f2328; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .accent { stroke: #f59e0b; stroke-width: 3; fill: none; stroke-linecap: round; }
+    .fill { fill: #fecaca; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #f0f6fc; }
+      .fill { fill: #7f1d1d; }
+    }
+  </style>
+  <!-- envelope -->
+  <path class="fill" d="M 12 24 L 68 24 L 68 60 L 12 60 Z"/>
+  <path class="ink" d="M 12 24 L 68 24 L 68 60 L 12 60 Z"/>
+  <path class="ink" d="M 12 24 L 40 46 L 68 24"/>
+  <!-- doodle ping wave -->
+  <path class="accent" d="M 56 14 Q 64 10, 70 16"/>
+  <path class="accent" d="M 60 8 Q 70 4, 76 12"/>
+</svg>
